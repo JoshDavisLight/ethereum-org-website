@@ -98,6 +98,7 @@ The Ethereum ecosystem is on a mission to fund public goods and impactful projec
 - [useWeb3 Jobs](https://www.useweb3.xyz/jobs)
 - [Web3 Jobs](https://web3.career)
 - [Web3 Army](https://web3army.xyz/)
+- [Apollo Jobs](https://apollojobs.xyz)
 
 ## Join a DAO {#decentralized-autonomous-organizations-daos}
 
